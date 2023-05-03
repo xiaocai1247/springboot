@@ -16,4 +16,13 @@ public class UserController {
         return null;
     }
 
+    public String update(User user) {
+
+        return null;
+    }
+
+    public String add(User user) {
+        return null;
+    }
+
 }
